@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">ContextualView</string>
+
+    <string-array name="name">
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+        <item>Amarjeet</item>
+
+
+    </string-array>
+    <string-array name="email">
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+        <item>aj.droid17@gmail.com</item>
+
+
+    </string-array>
+    <string-array name="mobileNumber">
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+        <item>9431224979</item>
+
+
+    </string-array>
+</resources>
